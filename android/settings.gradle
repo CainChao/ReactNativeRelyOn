@@ -1,0 +1,3 @@
+rootProject.name = 'EXinETian_RA'
+
+include ':app'
